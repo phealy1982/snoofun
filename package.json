@@ -1,0 +1,10 @@
+{
+  "name": "snoofun",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "a reddit bot",
+  "main": "main.js",
+  "dependencies": {
+    "snoowrap": "^1.1.1"
+  }
+}
